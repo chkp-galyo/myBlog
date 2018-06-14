@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+
+}
+
+body {
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #000;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* HELPERS */
+
+ul li {
+    list-style: none;
+}
